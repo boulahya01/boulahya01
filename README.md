@@ -1,21 +1,22 @@
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Marwan%20Boulahya&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=I%20Design%20it.%20I%20Build%20it.%20I%20Ship%20it.&descSize=20&descAlignY=56&animation=fadeIn"/>
+<!-- ════════════════════════════════════════════ HEADER ══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,40:0f0c29,80:1a1040,100:0f0c29&height=260&section=header&text=Marwan%20Boulahya&fontSize=58&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Design%20it.%20%E2%80%82%20Architect%20it.%20%E2%80%82%20Build%20it.%20%E2%80%82%20Ship%20it.&descSize=17&descAlignY=58&descAlign=50&animation=fadeIn"/>
 
-<!-- TYPING -->
+<!-- ══════════════════════════════════════════ TYPING ══ -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=480&lines=Full-Stack+Platforms+%E2%80%A2+Any+Scale+%F0%9F%9A%80;Design+%E2%86%92+Architect+%E2%86%92+Build+%E2%86%92+Ship;AI+%2B+Chatbots+built+into+every+project+%F0%9F%A4%96;Real-Time+%C2%B7+Cross-Platform+%C2%B7+Zero+Limits;If+you+can+imagine+it+%E2%80%94+I+can+build+it+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2600&pause=1000&color=A78BFA&center=true&vCenter=true&width=540&lines=Full-Stack+Platforms+%E2%80%94+Any+Scale+%F0%9F%9A%80;Design+%E2%86%92+Architect+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Scale;AI+%2B+Chatbots+built+into+every+project+%F0%9F%A4%96;Real-Time+%C2%B7+Cross-Platform+%C2%B7+Zero+Limits;If+you+can+imagine+it+%E2%80%94+I+can+build+it+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
 
-<!-- BADGES -->
-<div align="center">
 <br/>
+
+<!-- ═══════════════════════════════════════════ BADGES ══ -->
+<div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=boulahya01&label=Profile+Views&color=7c3aed&style=flat-square)](https://github.com/boulahya01)&nbsp;
 [![Followers](https://img.shields.io/github/followers/boulahya01?label=Followers&style=flat-square&color=7c3aed&labelColor=1e1b4b)](https://github.com/boulahya01?tab=followers)&nbsp;
 [![Stars](https://img.shields.io/github/stars/boulahya01?label=Stars&style=flat-square&color=7c3aed&labelColor=1e1b4b)](https://github.com/boulahya01)&nbsp;
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%E2%9C%93-22c55e?style=flat-square&labelColor=14532d)](mailto:marwaneboulahya@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✓-22c55e?style=flat-square&labelColor=052e16)](mailto:marwaneboulahya@gmail.com)
 
 </div>
 
@@ -23,16 +24,18 @@
 
 ---
 
+<!-- ══════════════════════════════════════════ WHO AM I ══ -->
+
 ## 🧬 &nbsp;Who Am I?
 
 ```typescript
 const marwan: Developer = {
-  name      : "Marwan Boulahya",
-  location  : "🇲🇦 Fes, Morocco",
-  identity  : [
+  name     : "Marwan Boulahya",
+  location : "🇲🇦 Fes, Morocco",
+  identity : [
     "Full-Stack Platform Builder",
-    "Data Science Student",
-    "Designer → Developer  (in that order)",
+    "Data Science Student @ USMBA",
+    "Designer → Developer (in that order)",
     "Self-Taught · Zero Limits",
   ],
 
@@ -44,72 +47,40 @@ const marwan: Developer = {
     "⑤ 🚀  Ship"      : "Deploy · Monitor · Iterate · Scale",
   },
 
-  always_ships_with : ["AI Chatbot", "Real-Time layer", "Pixel-perfect UI"],
-  can_build         : "Anything you can imagine.",
+  always_ships_with : ["AI layer", "Real-Time", "Pixel-perfect UI"],
   motto             : "Design first. Build fast. Ship smart.",
 };
 ```
 
 ---
 
+<!-- ══════════════════════════════════════ WHAT I BUILD ══ -->
+
 ## 🚀 &nbsp;What I Build
 
 > I don't specialize in one thing — **I build the whole thing.**
-> From the first pixel in Figma to the last line deployed in production.
+> From the first pixel in Figma to the last commit deployed in production.
 
 <br/>
 
-<table width="100%">
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Platforms-7c3aed?style=for-the-badge&logoColor=white"/>
-      <br/><br/>
-      <b>Full-Stack Platforms</b><br/>
-      <sub>End-to-end systems<br/>with auth, DB, APIs<br/>& dashboards</sub>
-      <br/><br/>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Management%20Systems-0ea5e9?style=for-the-badge&logoColor=white"/>
-      <br/><br/>
-      <b>Management Systems</b><br/>
-      <sub>ERP · CRM · HRM<br/>custom-built for<br/>any domain</sub>
-      <br/><br/>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Cross--Platform-f472b6?style=for-the-badge&logoColor=white"/>
-      <br/><br/>
-      <b>Cross-Platform Apps</b><br/>
-      <sub>Web · Mobile · Desktop<br/>one vision,<br/>every device</sub>
-      <br/><br/>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/AI%20%2B%20Real--Time-22c55e?style=for-the-badge&logoColor=white"/>
-      <br/><br/>
-      <b>AI & Real-Time</b><br/>
-      <sub>Chatbots · Live data<br/>WebSockets · LLMs<br/>in every project</sub>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center">
-      <br/>
-      <img src="https://img.shields.io/badge/Landing%20Pages-f59e0b?style=for-the-badge&logoColor=white"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Data%20Science%20%26%20ML-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-      <br/><br/>
-      <sub>Every project starts with a design. Every product ships with AI. Every system runs in real-time.</sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+![Platforms](https://img.shields.io/badge/Full‑Stack%20Platforms-7c3aed?style=for-the-badge&logoColor=white)
+![Systems](https://img.shields.io/badge/ERP%20·%20CRM%20·%20HRM-0ea5e9?style=for-the-badge&logoColor=white)
+![Cross-Platform](https://img.shields.io/badge/Web%20·%20Mobile%20·%20Desktop-f472b6?style=for-the-badge&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20+%20Real‑Time%20Systems-22c55e?style=for-the-badge&logoColor=white)
+![Landing](https://img.shields.io/badge/Landing%20Pages-f59e0b?style=for-the-badge&logoColor=white)
+![Design](https://img.shields.io/badge/UI%2FUX%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ML](https://img.shields.io/badge/Data%20Science%20%26%20ML-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<br/>
+<sub><i>Every project starts with a design. Every product ships with AI. Every system runs in real-time.</i></sub>
+
+</div>
 
 ---
+
+<!-- ════════════════════════════════════ TECH ARSENAL ══ -->
 
 ## 🛠️ &nbsp;Tech Arsenal
 
@@ -121,7 +92,7 @@ const marwan: Developer = {
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **🖥️ &nbsp;Frontend**
 
@@ -154,7 +125,7 @@ const marwan: Developer = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**☁️ &nbsp;Infra & Tools**
+**☁️ &nbsp;Infra & DevOps**
 
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
@@ -164,39 +135,47 @@ const marwan: Developer = {
 
 ---
 
-## ⚡ &nbsp;GitHub Pulse
+<!-- ══════════════════════════════════════ GITHUB STATS ══ -->
+
+## ⚡ &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-lilac-iota-97.vercel.app/api?username=boulahya01&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=f472b6&text_color=c9d1d9&card_width=495" width="100%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-lilac-iota-97.vercel.app/api?username=boulahya01&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=f472b6&text_color=c9d1d9&border_radius=12&ring_color=7c3aed&custom_title=Marwan%27s%20GitHub%20Stats" width="100%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=boulahya01&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=8b949e&card_width=495" width="100%" alt="Streak Stats"/>
+<br/>
 
-<img src="https://github-readme-stats-lilac-iota-97.vercel.app/api/top-langs/?username=boulahya01&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&card_width=495&hide=html,css" width="100%" alt="Top Languages"/>
+<img src="https://github-readme-stats-lilac-iota-97.vercel.app/api/top-langs/?username=boulahya01&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&hide=html,css&border_radius=12&custom_title=Most%20Used%20Languages" width="100%" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 📈 &nbsp;Activity
+<!-- ══════════════════════════════════════════ ACTIVITY ══ -->
+
+## 📈 &nbsp;Activity &nbsp;—&nbsp; 445 Contributions This Year
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boulahya01&bg_color=0D1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&custom_title=Marwan's%20Contribution%20Graph&area_color=7c3aed)](https://github.com/boulahya01)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=boulahya01&bg_color=0D1117&color=a78bfa&line=7c3aed&point=f472b6&area=true&hide_border=true&custom_title=Contribution%20Graph%20%E2%80%94%20445%20contributions%20this%20year&area_color=7c3aed&radius=6)](https://github.com/boulahya01)
 
 </div>
 
 ---
+
+<!-- ══════════════════════════════════════ TROPHY ROOM ══ -->
 
 ## 🏆 &nbsp;Trophy Room
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=boulahya01&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=boulahya01&theme=tokyonight&no-frame=true&no-bg=true&column=-1&margin-w=6&margin-h=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
+
+<!-- ══════════════════════════════════════════ CONTACT ══ -->
 
 ## 📬 &nbsp;Find Me
 
@@ -215,5 +194,5 @@ const marwan: Developer = {
 
 </div>
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
+<!-- ════════════════════════════════════════════ FOOTER ══ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:1a1040,100:0a0a0f&height=130&section=footer&animation=fadeIn"/>
