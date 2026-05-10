@@ -31,7 +31,7 @@
 ```typescript
 const marwan: Developer = {
   name     : "Marwan Boulahya",
-  location : "🇲🇦 Fes, Morocco",
+  location : "🇲🇦 TAZA, Morocco",
   identity : [
     "Full-Stack Platform Builder",
     "Data Science Student @ USMBA",
